@@ -29,7 +29,7 @@ On analysing data, it was observed that, the linear regression model was able to
 - scikit-learn (sklearn) - version 0.24.0
 - IDE - Jupyter Notebook - version 6.5.2
 
-  ## Acknowledgements
+## Acknowledgements
 Give credit here.
 - This project was inspired by...
 - References if any...
